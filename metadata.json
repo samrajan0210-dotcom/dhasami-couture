@@ -1,0 +1,8 @@
+{
+  "name": "Dhasami Couture",
+  "description": "Exclusive Kanchipuram pure silk sarees, handcrafted Chanderi kurtis, and bespoke bridal lehengas woven by generational master artisans across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "products": [
+    {
+      "id": "DC-101",
+      "name": "Gulmarg Brocade Royal Festive Ensemble",
+      "category": "festive",
+      "categoryLabel": "Atelier Festive Drapes & Sets",
+      "price": 18499,
+      "originalPrice": 24999,
+      "rating": 4.9,
+      "reviewsCount": 38,
+      "isBestseller": true,
+      "isNew": false,
+      "isPublished": true,
+      "stock": 7,
+      "colors": [
+        {
+          "name": "Royal Crimson",
+          "hex": "#8B1E3F",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+            "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Peacock Teal",
+          "hex": "#005F73",
+          "images": [
+            "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Temple Gold",
+          "hex": "#C59B27",
+          "images": [
+            "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "variantStock": {
+        "Royal Crimson_XS": 1,
+        "Royal Crimson_S": 2,
+        "Royal Crimson_M": 2,
+        "Peacock Teal_S": 1,
+        "Temple Gold_M": 1
+      },
+      "fabric": "Pure Mulberry Silk with Antique Zari",
+      "craft": "Ancestral Brocade Handloom Weave",
+      "leadTime": "Ready to dispatch within 24 hours",
+      "description": "Woven with gold-dipped pure zari thread on authentic handloom mulberry silk. Features a grandeur-rich silhouette with ancestral peacock and paisley motifs, accompanied by an embellished border.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.377Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    },
+    {
+      "id": "DC-102",
+      "name": "Emerald Gulmohar Chanderi Kurti Set",
+      "category": "kurtis",
+      "categoryLabel": "Festive Kurti Sets",
+      "price": 4599,
+      "originalPrice": 6200,
+      "rating": 4.8,
+      "reviewsCount": 52,
+      "isBestseller": true,
+      "isNew": true,
+      "isPublished": true,
+      "stock": 9,
+      "colors": [
+        {
+          "name": "Emerald Forest",
+          "hex": "#1B4332",
+          "images": [
+            "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+            "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Dusty Rose",
+          "hex": "#C97A7E",
+          "images": [
+            "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "variantStock": {
+        "Emerald Forest_XS": 1,
+        "Emerald Forest_S": 2,
+        "Emerald Forest_M": 3,
+        "Emerald Forest_L": 1,
+        "Dusty Rose_S": 1,
+        "Dusty Rose_M": 1
+      },
+      "fabric": "Chanderi Cotton-Silk blend",
+      "craft": "Handcrafted Gotta Patti & Gota Kinari",
+      "leadTime": "Dispatches in 2 days",
+      "description": "Straight-silhouette calf-length Kurti paired with scalloped organza dupatta and cigarette pants. Delicate botanical hand-embroidery along the yoke and sleeve borders.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.378Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    },
+    {
+      "id": "DC-103",
+      "name": "Nawabi Organza Anarkali Festive Gown",
+      "category": "dresses",
+      "categoryLabel": "Anarkalis & Indo-Western Gowns",
+      "price": 11999,
+      "originalPrice": 15500,
+      "rating": 5,
+      "reviewsCount": 19,
+      "isBestseller": false,
+      "isNew": true,
+      "isPublished": true,
+      "stock": 5,
+      "colors": [
+        {
+          "name": "Blush Ivory",
+          "hex": "#F3E9E0",
+          "images": [
+            "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80",
+            "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Lilac Mist",
+          "hex": "#C3B1E1",
+          "images": [
+            "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "variantStock": {
+        "Blush Ivory_S": 2,
+        "Blush Ivory_M": 1,
+        "Lilac Mist_S": 1,
+        "Lilac Mist_M": 1
+      },
+      "fabric": "Pure Silk Organza with Butter-Crepe lining",
+      "craft": "Zardozi and Micro-Pearl needlework",
+      "leadTime": "Limited Edition",
+      "description": "32-kali flare floor-sweeping Anarkali gown. Adorned with champagne sequin sprinkles, scalloped borders, and an intricately embellished choker neckline.",
+      "image": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.378Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    },
+    {
+      "id": "DC-104",
+      "name": "Maharani Velvet Bridal Heritage Lehenga",
+      "category": "ethnic",
+      "categoryLabel": "Bridal Heritage Lehengas",
+      "price": 36499,
+      "originalPrice": 48000,
+      "rating": 4.9,
+      "reviewsCount": 27,
+      "isBestseller": true,
+      "isNew": false,
+      "isPublished": true,
+      "stock": 4,
+      "colors": [
+        {
+          "name": "Maroon Vermilion",
+          "hex": "#660708",
+          "images": [
+            "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80",
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Midnight Navy",
+          "hex": "#0B132B",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "variantStock": {
+        "Maroon Vermilion_S": 1,
+        "Maroon Vermilion_M": 2,
+        "Midnight Navy_M": 1
+      },
+      "fabric": "Micro Velvet with Dual Organza Dupattas",
+      "craft": "Dabka, Marodi & Resham Threadwork",
+      "leadTime": "Tailoring consultation provided on purchase",
+      "description": "Royal bridal ensemble with a grand 4.5-meter circumference flare. Double dupatta concept featuring sheer veil tissue and structured velvet borders.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.378Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    },
+    {
+      "id": "DC-105",
+      "name": "Varanasi Metallic Tissue Brocade Set",
+      "category": "festive",
+      "categoryLabel": "Atelier Festive Drapes & Sets",
+      "price": 15800,
+      "originalPrice": 19999,
+      "rating": 4.7,
+      "reviewsCount": 44,
+      "isBestseller": false,
+      "isNew": true,
+      "isPublished": true,
+      "stock": 6,
+      "colors": [
+        {
+          "name": "Sunset Coral",
+          "hex": "#E07A5F",
+          "images": [
+            "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Champagne Ochre",
+          "hex": "#E9D8A6",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "variantStock": {
+        "Sunset Coral_S": 2,
+        "Sunset Coral_M": 2,
+        "Champagne Ochre_M": 2
+      },
+      "fabric": "Fine Silk with Metallic Tissue weft",
+      "craft": "Varanasi Kadwa Brocade Weave",
+      "leadTime": "Dispatches tomorrow",
+      "description": "An ethereal confluence of heritage motifs and soft metallic sheen. Lightweight yet exceptionally regal for receptions and festive gatherings.",
+      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.378Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    },
+    {
+      "id": "DC-106",
+      "name": "Noor Hand-Block Printed Festive Tunic",
+      "category": "kurtis",
+      "categoryLabel": "Festive Kurti Sets",
+      "price": 2999,
+      "originalPrice": 3899,
+      "rating": 4.6,
+      "reviewsCount": 61,
+      "isBestseller": false,
+      "isNew": false,
+      "isPublished": true,
+      "stock": 12,
+      "colors": [
+        {
+          "name": "Indigo Botanical",
+          "hex": "#1D3557",
+          "images": [
+            "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80"
+          ]
+        },
+        {
+          "name": "Terracotta Rust",
+          "hex": "#BA181B",
+          "images": [
+            "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=80"
+          ]
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "variantStock": {
+        "Indigo Botanical_XS": 2,
+        "Indigo Botanical_S": 3,
+        "Indigo Botanical_M": 3,
+        "Terracotta Rust_S": 2,
+        "Terracotta Rust_M": 2
+      },
+      "fabric": "100% Breathable Sanganeri Cotton-Silk",
+      "craft": "Natural Vegetable Dye Woodblock",
+      "leadTime": "In Stock",
+      "description": "Effortless luxury tailored for daily grace and boutique styling. Features discreet side pockets, shell buttons, and mirror-work lapels.",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+      "additionalImages": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80"
+      ],
+      "createdAt": "2026-10-13T04:20:07.378Z",
+      "updatedAt": "2026-10-13T05:00:00.000Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "text": "✨ FESTIVE ATELIER COLLECTION LIVE · TAMIL NADU EXPRESS DELIVERY ₹50 · PAN-INDIA SHIPPING ₹100",
+      "isActive": true,
+      "order": 1
+    },
+    {
+      "id": "ann-2",
+      "text": "⚜️ BESPOKE BRIDAL TROUSSEAU CONSULTATIONS NOW OPEN AT OUR CHENNAI SALON",
+      "isActive": true,
+      "order": 2
+    },
+    {
+      "id": "ann-3",
+      "text": "🌸 USE CODE DHASAMI10 FOR 10% PRIVILEGE ATELIER SAVINGS AT CHECKOUT",
+      "isActive": true,
+      "order": 3
+    }
+  ],
+  "settings": {
+    "whatsappNumber": "919840123456",
+    "instagramHandle": "dhasamicouture",
+    "instagramUrl": "https://instagram.com/dhasamicouture",
+    "flagshipAddress": "42, Chamiers Road, R.A. Puram, Chennai, Tamil Nadu 600028",
+    "contactEmail": "concierge@dhasamicouture.com",
+    "contactPhone": "+91 98401 23456 / 044-2435-0099",
+    "shippingTamilNadu": 50,
+    "shippingPanIndia": 100,
+    "gstRate": 12,
+    "gstPricingMode": "inclusive",
+    "currency": "INR",
+    "razorpayKeyId": "",
+    "razorpayKeySecret": "",
+    "gatewayMode": "test",
+    "brandDisplayName": "Dhasami Couture",
+    "brandSubtitle": "HAUTE COUTURE · CHENNAI"
+  },
+  "orders": [
+    {
+      "orderId": "DC-2026-8522",
+      "date": "13 Oct 2026",
+      "items": [
+        {
+          "productId": "DC-102",
+          "name": "Emerald Gulmohar Chanderi Kurti Set",
+          "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=900&q=80",
+          "price": 4599,
+          "quantity": 1,
+          "selectedSize": "M",
+          "selectedColor": "Emerald Forest",
+          "totalItemPrice": 4599
+        }
+      ],
+      "subtotal": 4599,
+      "discountAmount": 0,
+      "gstAmount": 493,
+      "shippingCharge": 50,
+      "grandTotal": 4649,
+      "customer": {
+        "fullName": "Ananya Subramanian",
+        "email": "ananya.s@example.com",
+        "phone": "9840123456",
+        "addressLine1": "Flat 4B, Rajendra Elegance, TTK Road",
+        "addressLine2": "Alwarpet",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600018",
+        "paymentMethod": "razorpay"
+      },
+      "paymentMethod": "razorpay",
+      "paymentStatus": "PENDING",
+      "fulfillmentStatus": "Processing",
+      "createdAt": "2026-10-13T05:29:20.411Z"
+    }
+  ],
+  "owner": {
+    "email": "owner@dhasamicouture.com",
+    "passwordHash": "799cd44785f82406ce2639fc4bcedce58bcf8439867fcef2e0a5a101ff5956d3569401ea059a694336bbe4b27de4d89912267b90ac953f1d4f19c9ed97e7e376",
+    "salt": "7416a389ac308e8c77535eabfd3a2121",
+    "recoveryKeyHash": "799cd44785f82406ce2639fc4bcedce58bcf8439867fcef2e0a5a101ff5956d3569401ea059a694336bbe4b27de4d89912267b90ac953f1d4f19c9ed97e7e376",
+    "updatedAt": "2026-10-13T05:33:46.361Z"
+  },
+  "hero": {
+    "kicker": "HAUTE COUTURE OF SOUTH ASIA",
+    "headline": "Woven in Heritage,",
+    "headlineItalic": "Draped in Royalty.",
+    "description": "Handcrafted festive co-ords, flared organza Anarkalis, and bespoke bridal lehengas crafted by master generational artisans across India.",
+    "bgImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1800&q=80",
+    "cta1Text": "Explore Festive Collection",
+    "cta1Category": "all",
+    "cta2Text": "Festive Kurti Sets",
+    "cta2Category": "kurtis",
+    "stats": [
+      {
+        "value": "100%",
+        "label": "Artisan Authenticity"
+      },
+      {
+        "value": "250+",
+        "label": "Artisan Families"
+      },
+      {
+        "value": "Insured",
+        "label": "Pan-India Express"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "key": "kurtis",
+      "title": "Festive Kurti Sets",
+      "subtitle": "Chanderi & Hand Block",
+      "description": "Bespoke calf-length straight silhouettes and scalloped organza dupattas.",
+      "img": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=600&q=80",
+      "subcategories": [
+        "Chanderi Sets",
+        "A-Line Tunics",
+        "Hand Block Co-ords"
+      ],
+      "order": 1
+    },
+    {
+      "key": "dresses",
+      "title": "Anarkalis & Indo-Western Gowns",
+      "subtitle": "Organza & Micro-Pearls",
+      "description": "Floor-sweeping flared silhouettes with delicate zardozi detailing.",
+      "img": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=600&q=80",
+      "subcategories": [
+        "32-Kali Anarkalis",
+        "Festive Gowns",
+        "Cocktail Capes"
+      ],
+      "order": 2
+    },
+    {
+      "key": "ethnic",
+      "title": "Bridal Heritage Lehengas",
+      "subtitle": "Velvet & Heritage Dabka",
+      "description": "Royal bridal couture crafted with micro velvet and double organza veils.",
+      "img": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=600&q=80",
+      "subcategories": [
+        "Velvet Lehengas",
+        "Bridal Ensembles",
+        "Sangeet Silhouettes"
+      ],
+      "order": 3
+    },
+    {
+      "key": "festive",
+      "title": "Atelier Festive Drapes & Sets",
+      "subtitle": "Metallic Tissue & Brocades",
+      "description": "Occasion curations blending antique zari and artisanal weaving.",
+      "img": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=600&q=80",
+      "subcategories": [
+        "Festive Brocades",
+        "Occasion Drapes",
+        "Bespoke Sets"
+      ],
+      "order": 4
+    }
+  ],
+  "aboutStory": {
+    "kicker": "The Dhasami Promise",
+    "headline": "Crafted not just for special moments, but to be passed down through generations.",
+    "storyParagraphs": [
+      "Founded in Chennai, Tamil Nadu, Dhasami Couture was born from an ardent reverie: to preserve the slow, poetic rhythm of Indian textile weaving while curating silhouettes designed for the contemporary global woman.",
+      "The name Dhasami celebrates auspicious festive occasions, new beginnings, and ancestral radiance. Each piece in our boutique undergoes months of meticulous curation—from the selection of pure mulberry silk threads in Varanasi to the precision of gotta-kinari embroideries by artisan guilds in Jaipur."
+    ],
+    "guildTitle": "Generational Weaving Guilds",
+    "guildDesc": "Preserving 400-year-old Jacquard & Kadhwa weaving traditions across India.",
+    "guildImg": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=80",
+    "promises": [
+      {
+        "title": "Authentic Handloom",
+        "desc": "Every ensemble is verified for artisanal weaving and genuine natural materials."
+      },
+      {
+        "title": "Direct From Weavers",
+        "desc": "Fair compensation and artisan guild welfare directly supported through every patronage."
+      },
+      {
+        "title": "Bespoke Fit",
+        "desc": "In-house master tailors provide customized falls, borders, and blouse measurements prior to sealing."
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "id": "test-1",
+      "quote": "The bridal lehenga I ordered for my sister's reception in Chennai was breathtaking. The real zari glow was evident and the packaging felt like unboxing royalty.",
+      "author": "Dr. Revathi Raghavan",
+      "city": "Chennai",
+      "rating": 5
+    },
+    {
+      "id": "test-2",
+      "quote": "Customer service via WhatsApp helped me customize the Anarkali neck depth within an hour. Arrived in Mumbai within 48 hours without a stitch out of place.",
+      "author": "Meera Kulkarni",
+      "city": "Mumbai",
+      "rating": 5
+    },
+    {
+      "id": "test-3",
+      "quote": "Finding authentic Chanderi kurtas with neat lining and pockets is so rare. Dhasami Couture has become my go-to for all family festive events.",
+      "author": "Sneha Varma",
+      "city": "Hyderabad",
+      "rating": 5
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cpn-1",
+      "code": "DHASAMI10",
+      "discountPercent": 10,
+      "description": "Festive Season Privilege Discount",
+      "isActive": true
+    },
+    {
+      "id": "cpn-2",
+      "code": "ROYAL15",
+      "discountPercent": 15,
+      "description": "VIP Wedding Trousseau Privilege",
+      "isActive": true
+    }
+  ],
+  "policies": {
+    "shippingHeading": "1. Shipping & Pan-India Insured Dispatch",
+    "shippingText": "All Dhasami Couture orders are dispatched from our primary Chennai ateliers through insured premium courier partners (BlueDart, Delhivery, DTDC).",
+    "shippingPoints": [
+      "Tamil Nadu deliveries: ₹50 shipping charge (2 to 3 business days).",
+      "Pan-India deliveries (all other Indian states): ₹100 express insured shipping charge (3 to 5 business days).",
+      "Real-time parcel tracking provided via WhatsApp and email upon dispatch."
+    ],
+    "returnsHeading": "2. 7-Day Exchange & Returns Policy",
+    "returnsText": "We take immense pride in our artisan handloom standards. If an ensemble does not fit or satisfy your expectations:",
+    "returnsPoints": [
+      "You may request an exchange or boutique credit within 7 calendar days of delivery.",
+      "Items must remain unused, unworn, unwashed with original designer tags intact.",
+      "Custom-tailored blouses or bespoke alteration orders are final sale unless a manufacturing discrepancy is confirmed."
+    ],
+    "privacyHeading": "3. Privacy & Secure Online Payment Architecture",
+    "privacyText": "Dhasami Couture strictly adheres to Indian Information Technology (IT Act 2000) privacy protocols. All online orders require secure prepayment via Razorpay (UPI, Credit/Debit cards, NetBanking). We do not accept Cash on Delivery to guarantee artisan reservation and prevent fraudulent parcel returns."
+  }
+}
